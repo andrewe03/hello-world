@@ -6,3 +6,4 @@ This is another line of text
 I like tacos
 
 I'd like to make another commit
+This is fun
